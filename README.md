@@ -1,1 +1,2 @@
 # Jogoday
+Este proyecto consiste en la realización de una web app donde los usuarios podrán gestionar sus equipos de fútbol amateur. Tendrán la posibilidad de registrar su equipo, enviar invitaciones a unirse al equipo, organizar futuros partidos administrando la asistencia, y futuras funcionalidades útiles. El stack web utilizado para el desarrollo del proyecto será HTML, CSS, BOOTSTRAP, Javascript, Vue, Django, MySQL, Ionic.
